@@ -7,6 +7,7 @@ For further query contact me @ clint.n.ferreira@gmail.com
 
 Colaborators :
 Orvell Ferreira (https://github.com/orvell)
+
 Sloan Dcunha (https://github.com/Sloan726)
 
 Demonstration: https://www.youtube.com/watch?v=U8ihW-Z3KxY
